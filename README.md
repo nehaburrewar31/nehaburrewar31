@@ -28,6 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nehaburrewar31&" alt="nehaburrewar31" /></p>
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/nehaburrewar31/nehaburrewar31/output/pacman-contribution-graph.svg)
 ![Snake animation](https://raw.githubusercontent.com/nehaburrewar31/nehaburrewar31/output/github-contribution-grid-snake.svg)
-![Snake animation](https://raw.githubusercontent.com/nehaburrewar31/nehaburrewar31/output/github-contribution-grid-snake.svg)
+
