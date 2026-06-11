@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Excel, SQL basics, Power BI, Data Cleaning, and Data Visualization**
 
-- 
+- 📫 How to reach me **nehaburrewar31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
